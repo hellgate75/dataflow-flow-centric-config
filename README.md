@@ -1,7 +1,7 @@
 <p align="center">
 <image width="90" height="90" src="images/flow-centric-poc-logo.png"></image>&nbsp;
 <image width="600" height="400" src="images/dataflow-merge-layer-config-logo.png">
-&nbsp;<image width="120" height="90" src="images/spring-cloud-logo.png"></image>
+&nbsp;<image width="120" height="120" src="images/spring-cloud-logo.png"></image>
 </p><br/>
 
 
